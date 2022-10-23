@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.366">
+    <testcase classname="Feature to test all pages in a catalog can be browsed" name="The user is able to successfully browse through all pages available in a catalog" time="0.095">
+        <system-out><![CDATA[Given that user is in a catalog.............................................passed
+When the user clicks on the Single Arrow Forward............................passed
+And the user is on page 2...................................................passed
+Then the page 3 of the catalog shall be displayed...........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test all pages in a catalog can be browsed" name="The user is able to successfully browse through all pages available in a catalog 2" time="0.006">
+        <system-out><![CDATA[Given that user is in a catalog.............................................passed
+When the user clicks on the Double Arrow Forward............................passed
+And the user is on page 2...................................................passed
+Then the page 15 of the catalog shall be displayed..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test all pages in a catalog can be browsed" name="The user is able to successfully browse through all pages available in a catalog 3" time="0.005">
+        <system-out><![CDATA[Given that user is in a catalog.............................................passed
+When the user clicks on the Single Arrow Backward...........................passed
+And the user is on page 3...................................................passed
+Then the page 2 of the catalog shall be displayed...........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Feature to test all pages in a catalog can be browsed" name="The user is able to successfully browse through all pages available in a catalog 4" time="0.005">
+        <system-out><![CDATA[Given that user is in a catalog.............................................passed
+When the user clicks on the Double Arrow Backward...........................passed
+And the user is on page 3...................................................passed
+Then the page 1 of the catalog shall be displayed...........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
