@@ -12,4 +12,9 @@ it('should return status 200', function () {
      .expect("json","theme_color","#002596")
      .expect("json","display","standalone")
      .expect("json","orientation","portrait-primary")
+     .expect('jsonTypes', 'icons.*', {
+      'src': Joi.string().required(),
+      'sizes': Joi.string().required(),
+      'purpose': Joi.string().required()
+     })
 });
