@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "manufacturer": "Suzuki",
+      "model": "Hustler",
+      "vinnumber": "383838",
+      "id": 1
+    },
+    {
+      "manufacturer": "Toyota",
+      "model": "CorollaAltisGrande",
+      "vinnumber": "191919",
+      "id": 2
+    },
+    {
+      "manufacturer": "Kia",
+      "model": "Sportage",
+      "vinnumber": "810012",
+      "id": 3
+    },
+    {
+      "manufacturer": "Hyundai",
+      "model": "Sonata",
+      "vinnumber": "829982",
+      "id": 4
+    },
+    {
+      "manufacturer": "Honda",
+      "model": "CRZ",
+      "vinnumber": "666666",
+      "id": 5
+    },
+    {
+      "vinnumber": "999999",
+      "model": "RX-8",
+      "manufacturer": "Mazda",
+      "id": 6
+    },
+    {
+      "vinnumber": "810012",
+      "model": "2008AllurePremium",
+      "manufacturer": "Peugeot",
+      "id": 7
+    }
+  ]
+}
