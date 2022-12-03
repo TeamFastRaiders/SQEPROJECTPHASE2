@@ -46,7 +46,7 @@ For folder structure, there are multiple options that you can implement to ensur
 
 A linter is a tool that analyzes your source code and improves code quality. Linters help improve the code quality by checking for syntax errors, code standards adherence, potential code problems and security checks. The ReactStoreFront is set up with a linter called ESLint. ESLint is a linting utility for JavaScript and JSX.
 
-### Examples from an open source project: ReactStoreFront
+### Examples from an open source project: Elastic Path ReactStoreFront
 
 ReactStorefront is a flexible e-commerce website built on the Elastic Path RESTful API known as Cortex API. I explored the Elastic Path documentation for the ReactStorefront and read about its architecture.
 
