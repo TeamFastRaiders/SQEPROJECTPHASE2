@@ -1,5 +1,5 @@
 # SQEPROJECTPHASE2
-# PERFORMANCE OPTIMIZATIONS
+# PERFORMANCE OPTIMIZATIONS FOR ASSIGNMENT 3
 
 Q : Explore and document different performance optimizations (e.g. Usage of Cache, Usage of Content Delivery Network, Usage of Lazy loading in web and asset workflows in games, Usage of PWA, Service workers and local storage)
 
